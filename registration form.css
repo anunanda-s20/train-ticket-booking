@@ -1,0 +1,57 @@
+*{
+margin: 0%;
+padding: 5%;
+box-sizing: border-box;
+font-family: sans-serif;
+
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('06e26f2af9328c97a261a218f261ccd2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    background-attachment: fixed;
+
+}
+
+.register{
+
+    font-size: larger;
+    font-weight: 500;
+    text-align: center;
+    background-color: rgb(94, 155, 196);
+
+}
+
+.heading1{
+    background-color: rgb(68, 112, 192);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

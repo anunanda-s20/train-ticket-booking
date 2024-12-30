@@ -1,0 +1,75 @@
+*{
+    font-family: 'poppins', sans-serif;
+}
+
+.main{
+    background-image: url(09d40b70c6d7ca9b91aff8c5803136e5train.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 85vh;
+
+}
+
+.container{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 20px 0 20px;
+
+}
+
+
+.span{
+    color: #fff;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+
+
+}
+
+.header{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+
+
+}
+
+.input_field {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+.payment {
+    background-image: url(payment\ doing.jpg);
+    background-size: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    justify-content: center;
+
+
+
+}
+
+.heading2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 500px;
+    text-align: center;
+    letter-spacing: 3px;
+    background-color: rgb(157, 186, 240);
+
+}
+
+.final{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 500px;
+    text-align: left;
+    letter-spacing: 3px;
+
+
+
+
+
+
+}
